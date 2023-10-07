@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ToDo" parent="Base.Theme.ToDo" />
+    
+    <style name="background">
+        <item name="android:background">#F2F5FF</item>
+    </style>
+
+    <style name="card">
+        <item name="android:background">#FFFFFFFF</item>
+    </style>
+
+    <style name="text">
+        <item name="android:textColor">#F2F5FF</item>
+    </style>
+
+</resources>
